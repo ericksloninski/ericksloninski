@@ -1,4 +1,4 @@
-## Oi! Eu sou o Erick Sloninski 👋
+## Oi! Eu sou o Erick 👋
 
 <div align="center">
   <a href="https://github.com/ericksloninski">
